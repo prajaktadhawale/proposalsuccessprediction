@@ -1,4 +1,24 @@
-# proposalsuccessprediction
+# Grant Application Success Prediction
+
+This project aims to predict the success of grant applications using machine learning techniques. The project includes data preprocessing, exploratory data analysis, model training, and evaluation.
+
+## Project Structure
+
+grant-application-success-prediction/
+├── data/ # Directory for data files
+├── notebooks/ # Directory for Jupyter Notebooks
+├── scripts/ # Directory for Python scripts
+├── README.md # Project description
+├── requirements.txt # List of dependencies
+└── .gitignore # Git ignore file
+
+
+- **data/**: This directory will contain all the data files used in the project.
+- **notebooks/**: This directory contains Jupyter Notebooks for data analysis, model training, and evaluation.
+- **scripts/**: This directory can be used for Python scripts that may be used to preprocess data, train models, or evaluate results.
+- **README.md**: Project overview and instructions.
+- **requirements.txt**: List of Python dependencies required for the project.
+- **.gitignore**: Specifies files and directories that should be ignored by Git.
 
 ## Setup
 
