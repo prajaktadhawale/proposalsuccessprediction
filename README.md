@@ -40,11 +40,6 @@ The dataset contains historical grant application data, including features such 
 - notebooks/eda.ipynb: Contains exploratory data analysis (EDA), including visualizations and initial insights from the    dataset.
 - notebooks/model_training.ipynb: Contains the model training, evaluation, and tuning steps for various machine learning    models.
 
-### Scripts
-1. scripts/preprocess_data.py: Script for preprocessing the data.
-2. scripts/train_model.py: Script for training and evaluating machine learning models.
-3. scripts/feature_importance.py: Script for calculating and plotting feature importance.
-
 ## Results
 
 1. Logistic Regression Performance:
