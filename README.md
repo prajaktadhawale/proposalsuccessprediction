@@ -1,4 +1,4 @@
-# proposalsuccessprediction
+# Proposal Success Prediction
 
 ## Setup
 
